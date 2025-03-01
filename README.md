@@ -1,6 +1,6 @@
 # NLP-Exercise-2
-Python file and corpus for exercise 2 in the NLP course of the Masters in Theoretical and Applied Linguistics of Pompeu Fabra University.
+Two Python files and text files for exercise 2 in the NLP course of the Masters in Theoretical and Applied Linguistics of Pompeu Fabra University.
 
-To run the Python file you must have the .txt files with Catalan and Spanish names in the same directory.
+You must have all 4 files in the same directory. The code you should run is the one in "main". The code is intended to be highly customizable, and there are many parameters you can set. 
 
-By default the code will generate 4 plots and save them to the same adress. This can be changed with a parameter. The code is intended to be highly customizabe.
+By default the code will generate 4 plots and save them to the same adress. This can be changed with a parameter.

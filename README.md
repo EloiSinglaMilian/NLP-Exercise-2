@@ -1,5 +1,7 @@
-# NLP-Exercise-2
-Two Python files and text files for exercise 2 in the NLP course of the Masters in Theoretical and Applied Linguistics of Pompeu Fabra University.
+# Name generation using a MLP
+These are the two Python files and text files for exercise 2 in the NLP course of the Masters in Theoretical and Applied Linguistics of Pompeu Fabra University.
+
+It trains two Multi-Layer Perceptrons on a different set of names/words each to produce more of them. It then compares the transfer from one to the other.
 
 You must have all 4 files in the same directory. The code you should run is the one in "main". The code is intended to be highly customizable, and there are many parameters you can set. 
 
